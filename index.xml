@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LoUe You Site</title>
+    <link>https://java3coder.github.io/</link>
+    <description>Recent content on LoUe You Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Apr 2022 13:58:15 +0800</lastBuildDate><atom:link href="https://java3coder.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://java3coder.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 11 Apr 2022 13:58:15 +0800</pubDate>
+      
+      <guid>https://java3coder.github.io/posts/my-first-post/</guid>
+      <description>This is Vince&amp;rsquo;s First Hugo Page!</description>
+    </item>
+    
+  </channel>
+</rss>
