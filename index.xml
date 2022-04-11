@@ -16,5 +16,14 @@
       <description>This is Vince&amp;rsquo;s First Hugo Page!</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://java3coder.github.io/posts/%E6%89%98%E7%AE%A1%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://java3coder.github.io/posts/%E6%89%98%E7%AE%A1%E5%8D%9A%E5%AE%A2/</guid>
+      <description>个人博客的三个阶段  在平台写博客；如CSDN、新浪博客。 自己搭建个人博客网站；如wordpress等CMS系统。 找一个托管平台，作者只负责内容；如github pages、jekyll、Hexo。  理想博客状态  作者只负责内容，大部分是静态内容。 网站样式可以一键切换，样式可以细粒度管理。 内容可以从git仓库自动更新。 能够有评论区(动态变更)  博客实现  一个md解释器，能够将markdown在后台解释成html  现有托管方案    jekyll Hexo          Github Pages 可以直接从仓库中生成静态网站。</description>
+    </item>
+    
   </channel>
 </rss>
